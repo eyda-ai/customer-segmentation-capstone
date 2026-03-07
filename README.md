@@ -126,6 +126,7 @@ customer_segmentation.ipynb
 
 4. Run the notebook to reproduce the clustering analysis and visualizations.
 
+```
 
 
 ## Author
