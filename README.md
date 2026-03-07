@@ -108,6 +108,24 @@ customer-segmentation-capstone
 
 1. Clone this repository
 
+```
+git clone https://github.com/eyda-ai/customer-segmentation-capstone.git
+```
+
+2. Install required libraries
+
+```
+pip install -r requirements.txt
+```
+
+3. Open the notebook
+
+```
+customer_segmentation.ipynb
+```
+
+4. Run the notebook to reproduce the clustering analysis and visualizations.
+
 
 
 ## Author
