@@ -53,6 +53,23 @@ The clustering model identified **three distinct customer segments**:
 
 These segments can help businesses design targeted marketing strategies and improve customer engagement.
 
+## Ethical Considerations
+
+Although this project uses unsupervised learning and does not make automated decisions about individuals, it is important to consider potential biases in the data and model outputs.
+
+The dataset includes demographic attributes such as **age and gender**, which may influence clustering outcomes. If these variables are not carefully interpreted, segmentation results could unintentionally reinforce stereotypes or lead to unfair marketing practices.
+
+To mitigate this risk, the model should be used as a **decision-support tool rather than an automated decision-making system**. Businesses should combine clustering insights with human judgment and domain expertise.
+
+Future improvements could include:
+
+- Auditing cluster distributions across demographic groups
+- Evaluating fairness across gender or age segments
+- Testing alternative clustering algorithms
+- Monitoring model performance on updated datasets
+
+
+
 ## Tools Used
 
 - Python
