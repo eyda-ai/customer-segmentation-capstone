@@ -3,6 +3,23 @@
 ## Project Overview
 This project applies unsupervised machine learning techniques to segment customers based on demographic and purchasing behavior. Using the K-Means clustering algorithm, customers are grouped into meaningful segments that help businesses better understand their customers.
 
+## Business Context
+Retail businesses serve customers with diverse income levels, purchasing behaviors, and spending habits. Without effective customer segmentation, marketing campaigns are often applied uniformly to all customers, which can lead to inefficient marketing spending and lower customer engagement.
+
+Customer segmentation helps businesses identify groups of customers with similar characteristics and behaviors. By understanding these patterns, companies can design targeted marketing strategies, improve customer experience, and allocate marketing resources more efficiently.
+
+## Problem Statement
+The objective of this project is to apply **unsupervised machine learning**, specifically the **K-Means clustering algorithm**, to segment customers based on their **age, annual income, and spending behavior**. The goal is to identify natural groupings within the customer base that reveal meaningful behavioral patterns.
+
+## Success Criteria
+The project is considered successful if the clustering model identifies **clear and interpretable customer segments** that can help businesses:
+
+- Identify high-value customers
+- Understand customer spending behavior
+- Support targeted marketing campaigns
+- Improve customer engagement and retention
+
+
 ## Dataset
 The dataset contains the following features:
 
