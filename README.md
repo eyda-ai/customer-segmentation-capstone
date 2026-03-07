@@ -45,6 +45,15 @@ These segments can help businesses design targeted marketing strategies and impr
 - Seaborn
 - Google Colab
 
+- ## Project Structure
+
+customer-segmentation-capstone
+│
+├── Mall_Customers.csv
+├── customer_segmentation.ipynb
+├── README.md
+└── requirements.txt
+
 ## Author
 
 Eyda Duran  
