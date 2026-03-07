@@ -68,6 +68,20 @@ Future improvements could include:
 - Testing alternative clustering algorithms
 - Monitoring model performance on updated datasets
 
+## Limitations & Future Work
+
+While the K-Means clustering model successfully identifies customer segments, several limitations should be considered.
+
+First, the dataset is relatively small and contains only a few variables. Important factors such as purchase frequency, product categories, or customer lifetime value are not included, which may limit the depth of segmentation insights.
+
+Second, K-Means assumes that clusters are spherical and evenly distributed, which may not always represent real-world customer behavior patterns.
+
+Future improvements could include:
+
+- Incorporating additional behavioral features such as purchase history
+- Testing other clustering algorithms such as DBSCAN or Hierarchical Clustering
+- Applying dimensionality reduction techniques such as PCA
+- Deploying the model in a business dashboard for real-time insights
 
 
 ## Tools Used
