@@ -104,6 +104,12 @@ customer-segmentation-capstone
 └── requirements.txt
 ```
 
+## How to Run the Project
+
+1. Clone this repository
+
+
+
 ## Author
 
 Eyda Duran  
